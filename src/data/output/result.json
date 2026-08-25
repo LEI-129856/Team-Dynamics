@@ -1,0 +1,20 @@
+[
+  {
+    "cliente": "AIG.",
+    "atividade": "Mini Olympics",
+    "data": "30/06/2026",
+    "valor": "75€"
+  },
+  {
+    "cliente": "ICON.",
+    "atividade": "Mini Olympics",
+    "data": "25/06/2026",
+    "valor": "50€"
+  },
+  {
+    "cliente": "Camunda.",
+    "atividade": "Jeep Adventure",
+    "data": "24/06/2026",
+    "valor": "40€"
+  }
+]
