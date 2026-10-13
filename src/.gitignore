@@ -3,3 +3,8 @@ node_modules/
 dist/
 build/
 .vscode/
+
+# Local-only Excel files
+src/data/output/resultado_bruno.xlsx
+src/data/Folha de Trabalhos Marta.xlsx
+src/data/*template*.xlsx
